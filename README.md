@@ -1,2 +1,2 @@
 # website
-5CCS2SEG LGT Pari-Programming Work
+5CCS2SEG LGT Pair-Programming Work
